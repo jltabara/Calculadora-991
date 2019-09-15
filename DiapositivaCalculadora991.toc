@@ -1,0 +1,40 @@
+\babel@toc {spanish}{}
+\contentsline {subsection}{Operaciones básicas}{3}
+\contentsline {subsection}{Potencias y operaciones combinadas}{4}
+\contentsline {subsection}{Divisibilidad}{5}
+\contentsline {subsection}{Fracciones I}{6}
+\contentsline {subsection}{Fracciones II}{7}
+\contentsline {subsection}{Sustitución de variables}{8}
+\contentsline {subsection}{Radicales I}{9}
+\contentsline {subsection}{Radicales II}{10}
+\contentsline {subsection}{Logaritmos}{11}
+\contentsline {subsection}{Propiedades de los logaritmos}{12}
+\contentsline {subsection}{Exponenciales y logaritmos}{13}
+\contentsline {subsection}{Grados y radianes}{14}
+\contentsline {subsection}{Trigonometría I}{15}
+\contentsline {subsection}{Trigonometría II}{16}
+\contentsline {subsection}{Funciones hiperbólicas}{17}
+\contentsline {subsection}{Ecuaciones de segundo grado}{18}
+\contentsline {subsection}{Ecuaciones de grado 3 y 4}{19}
+\contentsline {subsection}{Sistemas de ecuaciones}{20}
+\contentsline {subsection}{Números complejos I}{21}
+\contentsline {subsection}{Números complejos II}{22}
+\contentsline {subsection}{Combinatoria}{23}
+\contentsline {subsection}{Inecuaciones}{24}
+\contentsline {subsection}{Vectores I}{25}
+\contentsline {subsection}{Vectores II}{26}
+\contentsline {subsection}{Matrices I}{27}
+\contentsline {subsection}{Matrices II}{28}
+\contentsline {subsection}{Matrices III}{29}
+\contentsline {subsection}{Otras bases de numeración}{30}
+\contentsline {subsection}{Resolución de ecuaciones}{31}
+\contentsline {subsection}{Estadística unidimensional}{32}
+\contentsline {subsection}{Estadística bidimensional}{33}
+\contentsline {subsection}{Distribución normal}{34}
+\contentsline {subsection}{Distribución binomial}{35}
+\contentsline {subsection}{Sumatorios}{36}
+\contentsline {subsection}{Opciones de configuración}{37}
+\contentsline {subsection}{Integrales y derivadas}{38}
+\contentsline {subsection}{Estimación de límites}{39}
+\contentsline {subsection}{Conversiones}{40}
+\contentsline {subsection}{Miscelanea}{41}
